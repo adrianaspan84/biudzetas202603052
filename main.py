@@ -15,3 +15,5 @@ while True:
             saskaita.paskaiciuoti_balansa()
         case 0:
             break
+
+# Commit funkcijos testavimo irasas
