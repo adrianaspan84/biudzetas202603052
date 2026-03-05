@@ -21,4 +21,4 @@ while True:
         case 0:
             break
 
-# labas 
+# labas
