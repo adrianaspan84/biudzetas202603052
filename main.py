@@ -11,9 +11,14 @@ while True:
             saskaita.prideti_pajamas()
         case 3:
             saskaita.prideti_islaidas()
+
+        case 6:
+            print(saskaita.zurnalas)
+        case 7:
+
         case 4:
             saskaita.paskaiciuoti_balansa()
         case 0:
             break
 
-# Commit funkcijos testavimo irasas
+# labas 
